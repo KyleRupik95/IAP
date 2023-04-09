@@ -14,6 +14,7 @@ This project is a digital synthesiser with various features. The features includ
 -Pitch Bend Modulation Wheel
 
 -Low Pass Filter Modulation wheel
+
 --------------------------------------------------------------------------------------------
 A guide to navigating the user interface will show up in the console when the code is run.
 

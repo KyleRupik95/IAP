@@ -3,7 +3,7 @@
 
 This project is a digital synthesiser with various features. The features include:
 
--Polyphonic Synethsiser (using 5 simultaneous oscillators for additive synthesis sound design)
+-Polyphonic Synethsiser (using 5 simultaneous oscillators [sine, square, saw, triangle waves and white noise] for additive synthesis sound design)
 
 -Polyphonic Sequencer
 

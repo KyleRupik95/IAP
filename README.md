@@ -17,7 +17,9 @@ There shouldn't be any errors if the instructions are followed, but if there are
 
 ------------------------------------------------------------------------------------------
 My contribution to this project is the code written in the files:
+
 IAP/Source/IAP.cpp
+
 IAP/Source/IAP.h
 
 These files contain the code that tells executes all of the previously mentioned features.
